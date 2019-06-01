@@ -1,0 +1,6 @@
+owner=177417683774603264
+prefix=-
+game=Be,Curful.
+stayinchannel=true
+songinstatus=false
+token=NTg0Mjg0NDgyMTE1MjA3MTc5.XPItFw.MmE1NREDucjwC2XZ6P3R_tHf-Ec
